@@ -12,6 +12,11 @@ V3 can function as an extension, userscript and most likely, even a bookmarklet.
 
 [DOWNLOAD NOW](https://vorapis.pages.dev/#/home/download)
 
+### Preview
+
+<a>
+	<img src="product/v3/game_service/promo/obt/3.png" alt="Project V3">
+</a>
 
 ### Our friends
 
