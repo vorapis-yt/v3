@@ -15,7 +15,7 @@ V3 can function as an extension, userscript and most likely, even a bookmarklet.
 ### Preview
 
 <a>
-	<img src="product/v3/game_service/promo/obt/3.png" alt="Project V3">
+	<img src="https://vorapis.pages.dev/product/v3/game_service/promo/obt/3.png" alt="Project V3">
 </a>
 
 ### Our friends
