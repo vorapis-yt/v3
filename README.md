@@ -4,7 +4,7 @@
 	<img src="https://vorapis.pages.dev/product/v3/game_service/promo/LOGO_V3.png" alt="Project V3"><img src="https://vorapis.pages.dev/product/v3/game_service/promo/LOGO_V3_HQ.png" alt="Project V3"><br>
 </a>
 <pre>
-<a href="https://vorapis.pages.dev/#/join_community">Join our Community [Discord]</a>           <a href="https://vorapis.pages.dev/#/home/download">Download Page</a>           <a href="https://vorapis.pages.dev/auto_redirect_js_revision">One-Click Install [Userscript]</a>
+    <a href="https://vorapis.pages.dev/#/join_community">Join our Community [Discord]</a>           <a href="https://vorapis.pages.dev/#/home/download">Download Page</a>           <a href="https://vorapis.pages.dev/auto_redirect_js_revision">One-Click Install [Userscript]</a>
 </pre>
 </p>
 Project VORAPIS (V3) is an ES5-based script that brings back the 2013 "Hitchhiker" YouTube layout based on Google JFK design language.
