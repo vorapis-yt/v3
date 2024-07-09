@@ -1,4 +1,4 @@
-# ______▁ ▂ ▄ ▅ ▆ ▇ █ ᐺ3 - ͛T͛U͛D͛O͛ ͛2͛ █ ▇ ▆ ▅ ▄ ▂ ▁
+# ▁▁▁▁▁▁▁ ▂ ▄ ▅ ▆ ▇ █ ᐺ3 - ͛T͛U͛D͛O͛ ͛2͛ █ ▇ ▆ ▅ ▄ ▂ ▁
 <p align="center">
 <a href="https://vorapis.pages.dev/#/">
 	<img src="https://vorapis.pages.dev/product/v3/game_service/promo/LOGO_V3.png" alt="Project V3"><img src="https://vorapis.pages.dev/product/v3/game_service/promo/LOGO_V3_HQ.png" alt="Project V3"><br>
