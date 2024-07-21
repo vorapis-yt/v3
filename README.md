@@ -21,4 +21,3 @@ V3 can function as an extension, userscript and most likely, even a bookmarklet.
 ### Our friends
 
 [Rehike](https://github.com/Rehike/Rehike)
-[YouTube.js](https://github.com/LuanRT/YouTube.js)
